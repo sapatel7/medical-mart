@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+  <link>
+    <title>crocin advance</title>
+    <url>PPAGE1.PHP</url>
+  </link>
+  <link>
+    <title>cetirizine</title>
+    <url>PPAGE2.PHP</url>
+  </link>
+  <link>
+    <title>benadryl cough syrup</title>
+    <url>PPAGE3.PHP</url>
+  </link>
+  <link>
+    <title>metacin syrup</title>
+    <url>PPAGE4.PHP</url>
+  </link>
+  <link>
+    <title>rotahaler</title>
+    <url>PPage5.php</url>
+  </link>
+  <link>
+    <title>budecort respules </title>
+    <url>PPage6.php</url>
+  </link>
+  <link>
+  <title>duolin respules </title>
+    <url>PPage7.php</url>
+  </link>
+  <link>
+  <title>pampers</title>
+    <url>PPage8.php</url>
+  </link>
+  <link>
+  <title>benadon </title>
+    <url>PPage9.php</url>
+  </link>
+</pages>
